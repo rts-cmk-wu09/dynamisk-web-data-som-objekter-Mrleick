@@ -1,7 +1,7 @@
 let heading = document.querySelector("header");
 let footer = document.querySelector("footer");
 let body = document.querySelector("body");
-let omMig = {
+let info = {
     persondata: {
       cpr: "123456-7890",
       navne: {
