@@ -14,11 +14,11 @@ let omMig = {
         postnummer: 2630,
         telefon: "71 90 41 77",
     },
-    cevilstand: "fanget!",
+    cevilstand: "Single",
     dyr: [
         {
             navn: "Freyja",
-            køn: "tæve",
+            køn: "Tæve",
             vaccineret: true,
             livretter: ["Laura", "Anna", "Leonora"],
         },
