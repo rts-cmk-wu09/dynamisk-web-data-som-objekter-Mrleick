@@ -7,3 +7,17 @@
 body{
     background: #38b6f1;
 }
+
+main{
+    width: 600px;
+    margin: auto;
+}
+
+section{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+}
